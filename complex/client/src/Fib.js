@@ -66,7 +66,7 @@ class Fib extends Component {
             
                }
             </div>
-        )
+        );
     }
 }
 
